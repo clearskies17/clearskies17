@@ -53,9 +53,9 @@
         <h2>Get in Touch</h2>
         <p>If you have any questions, feedback, or just want to connect, feel free to reach out to me:</p>
         <ul>
-            <li>Email: vincent@onlyinting.com</li>
-            <li>Phone: [Your phone number]</li>
-            <li>Social Media: [Your social media profiles]</li>
+            <li>Email: clearskies112@gmail.com</li>
+            <li>Phone: 09124619912</li>
+            <li>Social Media: https://www.facebook.com/profile.php?id=61556753819769</li>
         </ul>
     </div>
     <footer>
